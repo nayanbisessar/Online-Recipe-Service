@@ -39,6 +39,11 @@ ORS is built using the following technologies:
 - **Database:** MySQL
 - **Other Tools:** GitHub (for deployment)
 
+## Group Project
+This project was developed as a collaborative effort by a group of passionate developers.
+
+Note: The website is no longer active, but you can view a demo of the project when it was functioning here: [Demo Link Placeholder]
+
 ## Contributing
 
 We welcome contributions from the community to improve and enhance ORS. Whether you're a developer, designer, or just someone with a passion for cooking, there are many ways to get involved:
