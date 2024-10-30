@@ -42,7 +42,7 @@ ORS is built using the following technologies:
 ## Group Project
 This project was developed as a collaborative effort by a group of passionate developers.
 
-Note: The website is no longer active, but you can view a demo of the project when it was functioning here: [Demo Link Placeholder]
+Note: The website is no longer active, but you can view a demo of the project when it was functioning [here](https://drive.google.com/file/d/1dYbx_mcIbp4URHxJJrnyOzPQxFJIjC-l/view?usp=sharing).
 
 ## Contributing
 
